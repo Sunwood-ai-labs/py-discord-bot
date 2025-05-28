@@ -1,0 +1,11 @@
+# Discord Bot Dependencies
+# Python 3.8+ required
+
+# Core Discord library
+discord.py>=2.3.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Additional useful libraries for future extensions
+aiohttp>=3.8.0  # For HTTP requests (useful for API integrations)
