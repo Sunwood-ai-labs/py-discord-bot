@@ -1,6 +1,6 @@
 <div align="center">
 
-![](docs/header.png)
+<img src="docs/header.png" width="100%" alt="py discord bot header"/>
 
 <h1>🤖 Python Discord Bot - 最小構成</h1>
 
