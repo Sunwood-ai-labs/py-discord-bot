@@ -1,5 +1,7 @@
 <div align="center">
 
+![](docs/header.png)
+
 <h1>🤖 Python Discord Bot - 最小構成</h1>
 
 <p>
